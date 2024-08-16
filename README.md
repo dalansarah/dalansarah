@@ -1,10 +1,10 @@
-Boas vindas ao meu perfil
+Boas vindas ao meu perfil!!!🧡
 
-Meu nome é Sarah Dalan
+- Meu nome é Sarah Dalan
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilamento dos meus projetos desenvolvidos.
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- Você pode entrar em contato comigo
+Você pode entrar em contato comigo📮
 
-- @sarahdalan4@gmail.com
+- 00001143051762sp@al.educacao.sp.gov.br 📧
